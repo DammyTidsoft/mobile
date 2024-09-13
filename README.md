@@ -1,2 +1,2 @@
 # mobile
-This is my flutter apps
+This is my flutter mobile apps
